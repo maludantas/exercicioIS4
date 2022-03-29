@@ -3,6 +3,7 @@
 ## código
 
 > Inputs: 
+
 -quantidade de processos
 
 -quantum usado
@@ -45,6 +46,7 @@
 ## makefile
 
 > funções:
+
 -compilar
 
 -gerar o binário
