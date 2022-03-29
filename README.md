@@ -46,5 +46,7 @@
 
 > funções:
 -compilar
+
 -gerar o binário
+
 -apagar o binário
