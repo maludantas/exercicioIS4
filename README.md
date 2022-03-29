@@ -10,13 +10,14 @@
 
 > funções:
 - isEmpty (retorna 1 se head == NULL e 0 se head != NULL)
-
+```
   int isEmpty(struct queueNode *head){
     return head == NULL;
   }
+```
   
 - enqueue (adiciona elementos na fila)
-
+```
   void enqueue(struct queueNode **head, struct queueNode **tail, int arrivalTime, int burstTime){
   struct queueNode *new_process = (struct queueNode*)malloc(sizeof(struct queueNode));
 
@@ -36,6 +37,7 @@
       }
     }
   }
+```
 
 ## makefile
 
