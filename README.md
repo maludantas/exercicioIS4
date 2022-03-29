@@ -4,8 +4,11 @@
 
 > Inputs: 
 -quantidade de processos
+
 -quantum usado
+
 -momento de chegada do processo
+
 -quantidade de tempo que leva pra ser processado
 
 > funções:
